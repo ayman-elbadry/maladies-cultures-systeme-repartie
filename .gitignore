@@ -1,0 +1,16 @@
+# Modèles
+*.pth
+*.pt
+*.h5
+*.onnx
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Fichiers temporaires ou caches
+__pycache__/
+*.pyc
+.DS_Store
+
+# Fichier script de mise à jour que j'ai créé
+update_notebook.py
